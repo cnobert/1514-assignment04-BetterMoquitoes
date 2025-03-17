@@ -10,7 +10,7 @@ Make a fully-functioning Mosquito Attack game. This lab is out of 20 marks
 
 -   (5 marks) Make the game an actual game.  
 
-    -   The game will have a start screen. The game will flow through the states described above in a logical way.
+    -   The game will have a menu screen. The game will flow through the states described above in a logical way.
 
     -   The player will have three lives, and move to Level02 when they dispatch of all of the mosquitoes.  
 
@@ -44,7 +44,7 @@ Make a fully-functioning Mosquito Attack game. This lab is out of 20 marks
 
 -   (2 marks) Add a scale data member to all of your classes. 
 
--   \*Challenge\* (1 mark) Give some or all mosquitoes the ability to swoop down at random times.
+-   \*Challenge\* (1 mark) Give some or all of the mosquitoes the ability to swoop down at random times.
 
 *SUBMISSION*
 
